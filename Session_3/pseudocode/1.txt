@@ -1,0 +1,7 @@
+BEGIN
+NUMBER r, area 
+INPUT r 
+area=3.14*r*r 
+OUTPUT area 
+END
+ 
