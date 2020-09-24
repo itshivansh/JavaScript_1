@@ -1,0 +1,6 @@
+C:\Users\adminvm.Adminvm\Desktop\Shivansh\blankSolution\FrameworkLibraryApp\bin\Debug\FrameworkLibraryApp.dll
+C:\Users\adminvm.Adminvm\Desktop\Shivansh\blankSolution\FrameworkLibraryApp\bin\Debug\FrameworkLibraryApp.pdb
+C:\Users\adminvm.Adminvm\Desktop\Shivansh\blankSolution\FrameworkLibraryApp\obj\Debug\FrameworkLibraryApp.csprojAssemblyReference.cache
+C:\Users\adminvm.Adminvm\Desktop\Shivansh\blankSolution\FrameworkLibraryApp\obj\Debug\FrameworkLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.Adminvm\Desktop\Shivansh\blankSolution\FrameworkLibraryApp\obj\Debug\FrameworkLibraryApp.dll
+C:\Users\adminvm.Adminvm\Desktop\Shivansh\blankSolution\FrameworkLibraryApp\obj\Debug\FrameworkLibraryApp.pdb
