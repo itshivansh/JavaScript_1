@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.Title = "ConsoleApp1";
             int a = 7;
             int b = 6;
             int total = a + b;

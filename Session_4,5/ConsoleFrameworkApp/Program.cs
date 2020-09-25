@@ -8,6 +8,7 @@ namespace ConsoleFrameworkApp
     {
         static void Main(string[] args)
         {
+            Console.Title = "EmployeeId";
             Employee employee = new Employee();
             employee.employeeId = 63;
             Console.WriteLine(employee.employeeId);
