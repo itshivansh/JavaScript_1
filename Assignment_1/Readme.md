@@ -1,2 +1,2 @@
 # Area of a rectangle
-![area] (./img.PNG)
+![area](.Images/img.PNG)
