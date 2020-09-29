@@ -1,20 +1,20 @@
 # Age based interest calculator
-![](.Images/loopAssignment/Age based.PNG)
+![1](.Images/loopAssignment/Age based.PNG)
 
 # Menu Driven Temperature Converter
-![area](.Images/loopAssignment/temperature converter.PNG)
+![2](.Images/loopAssignment/temperature converter.PNG)
 
 # Menu Driven Simple Calculator
-![area](.Images/loopAssignment/calculator.PNG)
+![3](.Images/loopAssignment/calculator.PNG)
 
 # Check Given Number is Prime
-![area](.Images/loopAssignment/prime no..PNG)
+![4](.Images/loopAssignment/prime no..PNG)
 
 # Check Given Number is Armstrong Number
-![area](.Images/loopAssignment/prime no..PNG)
+![5](.Images/loopAssignment/prime no..PNG)
 
 # Iterative Simple Interest Calculator
-![area](.Images/loopAssignment/prime no..PNG)
+![6](.Images/loopAssignment/prime no..PNG)
 
 # Design Pattern
-![area](.Images/loopAssignment/pattern.PNG)
+![7](.Images/loopAssignment/pattern.PNG)
