@@ -2,4 +2,4 @@
 
 * here is my website.
 
-![screenshot](./images/screenshot.PNG)
+![screenshot](images/screenshot.PNG)
