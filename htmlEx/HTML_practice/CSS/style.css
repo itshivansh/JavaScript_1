@@ -1,0 +1,11 @@
+a{
+    Color: green;text-decoration: none;
+}
+body{
+    background-Color :lightgoldenrodyellow;
+    text-align:center;
+    animation:bgcolor infinite 20s;
+}
+h1{
+    text-align:center;
+}
